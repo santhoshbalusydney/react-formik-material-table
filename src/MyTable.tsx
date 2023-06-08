@@ -26,7 +26,7 @@ export function MyTable({ rows }: Props) {
             <TableCell>Id</TableCell>
             <TableCell>First Name</TableCell>
             <TableCell>Last Name</TableCell>
-            <TableCell>Email</TableCell>
+            <TableCell>Email address</TableCell>
           </TableRow>
         </TableHead>
         <TableBody>
